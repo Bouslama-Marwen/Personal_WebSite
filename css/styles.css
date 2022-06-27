@@ -92,7 +92,6 @@ margin-right: 100px;
 
 .table1{
   display:inline-block;
-
 }
 
 .table-header{
@@ -103,6 +102,8 @@ margin-right: 100px;
 
 .paragraph1{
   width: 250px;
+  text-align: left;
+
 }
 
 
