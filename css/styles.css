@@ -5,8 +5,7 @@ body{
 }
 h1{
   text-align: center;
-
-  padding-top: 130px;
+  padding-top: 8.125rem;
   color: #EEEEEE;
   font-family: 'Dancing Script', cursive;
   font-size: 70px;
@@ -17,13 +16,13 @@ h1{
 h3{
   text-align: center;
 
-  font-size: 25px;
+  font-size: 1.5625rem;
   color: #EEEEEE;
   font-family: 'Merriweather', serif;
 }
 
 hr{
-  margin-top:30px;
+  margin-top:1.875rem;
   width: 50%;
   border-color: white;
   background-color: white;
@@ -31,14 +30,14 @@ hr{
 
 html{
   scroll-behavior:smooth;
-  scroll-padding-top:50px;
+  scroll-padding-top:3.125rem;
 }
 
 /**********************************class styles *******************************/
 
 #first-container{
   text-align: center;
-  height:800px;
+  height:50rem;
   margin:0;
   background-image: url("../images/back7.jpg");
   background-size: cover;
@@ -49,8 +48,8 @@ html{
   width: 100%;
   text-align:center;
   background-color: #DA1212;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
   position: fixed;
   top:0;
 
@@ -58,24 +57,24 @@ html{
 
 .jump{
   font-family: 'Dancing Script', cursive;
-  font-size: 25px;
-  margin-left: 30px;
-  margin-right: 30px;
+  font-size: 1.5625rem;
+  margin-left: 1.875rem;
+  margin-right: 1.875rem;
   color: #EEEEEE;
   text-decoration: none;
 }
 
 
 .profile-pic{
-padding-top:50px;
-margin-left: 100px;
-margin-right: 100px;
+padding-top:3.125rem;
+margin-left: 6.25rem;
+margin-right: 6.25rem;
 }
 
 .div-name{
-  padding-top:20px;
+  padding-top:1.25rem;
   color: #06113C;
-  font-size: 55px;
+  font-size: 3.4375rem;
   text-align: center;
   margin:0;
 
@@ -85,8 +84,8 @@ margin-right: 100px;
   background-color:#DDDDDD;
   width:100%;
   margin:0;
-  padding-bottom: 70px;
-  padding-top: 30px;
+  padding-bottom: 4.375rem;
+  padding-top: 1.875rem;
   text-align: center;
 }
 
@@ -96,12 +95,12 @@ margin-right: 100px;
 
 .table-header{
   font-family: 'Merriweather', serif;
-  font-size: 25px;
+  font-size: 1.5625rem;
   color: #06113C;
 }
 
 .paragraph1{
-  width: 250px;
+  width: 15.625rem;
   text-align: left;
 
 }
@@ -110,20 +109,20 @@ margin-right: 100px;
 #education-container{
   background-color: #EEEEEE;
   width:100%;
-  padding-bottom: 30px;
-  padding-top: 20px;
+  padding-bottom: 1.875rem;
+  padding-top: 1.25rem;
 
 }
 
 .aalisar{
   font-family: 'Merriweather', serif;
-  font-size: 20px;
+  font-size: 1.25rem;
   color: #06113C;
   float:left;
-  margin-right:100px;
-  height: 100px;
-  width:200px;
-  padding-left: 350px;
+  margin-right:6.25rem;
+  height: 6.25rem;
+  width:12.5rem;
+  padding-left: 21.875rem;
 }
 
 .mini-titre{
@@ -135,7 +134,7 @@ margin-right: 100px;
 .education{
   display:inline-block;
   width:100%;
-  margin-top: 30px;
+  margin-top: 1.875rem;
 }
 
 
@@ -148,19 +147,19 @@ margin-right: 100px;
   background-color: #DDDDDD;
   width:100%;
   text-align: center;
-  padding-bottom: 30px;
-  padding-top: 20px;
+  padding-bottom: 1.875rem;
+  padding-top: 1.25rem;
 }
 
 .skill{
   display: inline-block;
-  margin-top: 50px;
-  margin-left:100px;
+  margin-top: 3.125rem;
+  margin-left:6.25rem;
 
 }
 
 .skill1{
-  padding-bottom:218px;
+  padding-bottom:13.625rem;
 }
 
 .skill-name{
@@ -172,66 +171,66 @@ margin-right: 100px;
   background-color: #EEEEEE;
   width: 100%;
   margin-bottom:0;
-  padding-bottom: 50px;
+  padding-bottom: 3.125rem;
 }
 
 .project1{
-margin-top:50px;
-padding-left: 150px;
+margin-top:3.125rem;
+padding-left: 9.375rem;
 display:inline-block;
 width:70%;
-height:200px;
+height:12.5rem;
 }
 
 .project2{
 display:inline-block;
 width:60%;
-padding-left: 500px;
-height:200px;
+padding-left: 31.25rem;
+height:12.5rem;
 
 }
 
 .project3{
-padding-left: 150px;
+padding-left: 9.375rem;
 display:inline-block;
 width:70%;
-height:200px;
+height:12.5rem;
 }
 
 .project4{
 display:inline-block;
 width:60%;
-padding-left: 500px;
-height:200px;
+padding-left: 31.25rem;
+height:12.5rem;
 }
 
 
 .project-img{
   float:left;
-  height:200px;
-  width:200px;
-  margin-right: 100px;
+  height:12.5rem;
+  width:12.5rem;
+  margin-right: 6.25rem;
 }
 
 .project-img2{
   float:right;
-  height:200px;
-  width:200px;
+  height:12.5rem;
+  width:12.5rem;
 }
 
 .titre-projet{
   text-align: left;
   color: #06113C;
   font-family: 'Merriweather', serif;
-  height:30px;
-  padding-top:30px;
+  height:1.875rem;
+  padding-top:1.875rem;
 }
 
 .paragraphs1{
   text-align:left;
   font-weight:normal;
   font-size:2;
-  height:200px;
+  height:12.5rem;
   line-height: 2;
 }
 
@@ -239,22 +238,21 @@ height:200px;
   margin-top:0;
   background-color: #06113C;
   text-align: center;
-  padding-bottom: 20px;
+  padding-bottom: 1.25rem;
 }
 
 
 .contact-me{
-  padding-top:10px;
+  padding-top:0.625rem;
   color: #EEEEEE;
-  font-size: 55px;
+  font-size: 3.4375rem;
   text-align: center;
   margin:0;
 }
 
 .contact{
-  margin-left: 30px;
-  margin-right: 30px;
+  margin-left: 1.875rem;
+  margin-right: 1.875rem;
   color: #EEEEEE;
   text-decoration: none;
-  
 }
